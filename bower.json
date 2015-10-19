@@ -1,0 +1,23 @@
+{
+  "name": "github_profile_challenge",
+  "description": "\"A simple GitHub Profile app purely in JavaScript that grabs data from the Github API in order to display a specified users avatar, number of followers and number of repos\"",
+  "main": "index.js",
+  "authors": [
+    "Michael Roger <bodgeuk12@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Benaud12/github_profile_challenge",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

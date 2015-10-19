@@ -20,6 +20,7 @@
     "hapi": "^11.0.0"
   },
   "devDependencies": {
+    "bower": "^1.6.3",
     "jasmine-node": "^1.14.5"
   }
 }
